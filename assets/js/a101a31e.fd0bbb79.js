@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdartboard_dev=self.webpackChunkdartboard_dev||[]).push([[5034],{7646:e=>{e.exports=JSON.parse('{"permalink":"/dartboard/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

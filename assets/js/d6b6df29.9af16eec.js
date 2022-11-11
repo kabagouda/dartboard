@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdartboard_dev=self.webpackChunkdartboard_dev||[]).push([[8332],{6341:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/dartboard/blog/tags/facebook","allTagsPath":"/dartboard/blog/tags","count":1}')}}]);
